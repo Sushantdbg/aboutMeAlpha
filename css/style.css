@@ -32,18 +32,22 @@ p {
 .img-circle {
   border: 3px solid white;
   border-radius: 10%;
+  height: 6rem;
+  width: 6rem;
 }
 
 .section {
   background-color: #fff;
-  padding: 15px;
-  margin-bottom: 10px;
-  border-radius: 10px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 1rem;
+  width: 100%;
+
 }
 
 #header {
+  background-color: #FFDEDE;
   background-size: cover;
-  background-color: #F0F0F0;
 }
 
 #header img {
@@ -92,7 +96,7 @@ li {
 }
 
 progress {
-  width: 70%;
+  width: 97%;
   height: 20px;
   color: #3fb6b2;
   background: #efefef;
